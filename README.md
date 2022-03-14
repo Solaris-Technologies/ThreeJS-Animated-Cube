@@ -1,4 +1,4 @@
-# Best Demo for 3D Animated Cube designed by Solaris Technologies
+# Best Demo for 3D Animated Cube designed by Solaris Technologies for Beginners
 Using JS framwork Three.js
 
 ## Usage
